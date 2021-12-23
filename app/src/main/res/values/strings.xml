@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">BMI</string>
+    <string name="login">Login</string>
+    <string name="next"><b><u>Next</u></b></string>
+    <string name="loginHeader"><b>Welcome Back</b></string>
+    <string name="loginSubHeader">If you already have an account, Login</string>
+    <string name="signUpHeader"><b>Create New Account</b></string>
+    <string name="signUpSubHeader">If you don\'t already have an account</string>
+    <string name="name">Name</string>
+    <string name="username">Username</string>
+    <string name="pass">Password</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="sign_in">Sign In</string>
+    <string name="create">CREATE</string>
+    <string name="dont_have_acc">You Don\'t Have An Account</string>
+    <string name="have_acc">You Have An Account</string>
+    <string name="email">E-Mail</string>
+    <string name="rePass">Re-Password</string>
+    <string name="logout"><u>Logout</u></string>
+</resources>
